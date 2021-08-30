@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @codehelpmate
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on machine learning
+- 📫 How to reach me codehelpmate@outlook.com
